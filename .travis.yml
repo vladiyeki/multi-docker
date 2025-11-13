@@ -20,3 +20,4 @@ after_success:
   - docker push vladiyeki/multi-nginx
   - docker push vladiyeki/mulit-server
   - docker push vladiyeki/multiworker 
+  #test
