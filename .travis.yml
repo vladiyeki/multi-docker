@@ -19,5 +19,5 @@ after_success:
   - docker push vladiyeki/multi-client
   - docker push vladiyeki/multi-nginx
   - docker push vladiyeki/multi-server
-  - docker push vladiyeki/multiworker 
+  - docker push vladiyeki/multi-worker 
   #test
